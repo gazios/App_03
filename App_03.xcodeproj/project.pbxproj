@@ -13,6 +13,7 @@
 		4C07DCE127FDED77006CF500 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C07DCDF27FDED77006CF500 /* Main.storyboard */; };
 		4C07DCE327FDED7B006CF500 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C07DCE227FDED7B006CF500 /* Assets.xcassets */; };
 		4C07DCE627FDED7B006CF500 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C07DCE427FDED7B006CF500 /* LaunchScreen.storyboard */; };
+		4C07DCEE27FDF472006CF500 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C07DCED27FDF472006CF500 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4C07DCE227FDED7B006CF500 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4C07DCE527FDED7B006CF500 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4C07DCE727FDED7B006CF500 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C07DCED27FDF472006CF500 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				4C07DCD927FDED77006CF500 /* AppDelegate.swift */,
 				4C07DCDB27FDED77006CF500 /* SceneDelegate.swift */,
 				4C07DCDD27FDED77006CF500 /* ViewController.swift */,
+				4C07DCED27FDF472006CF500 /* SecondViewController.swift */,
 				4C07DCDF27FDED77006CF500 /* Main.storyboard */,
 				4C07DCE227FDED7B006CF500 /* Assets.xcassets */,
 				4C07DCE427FDED7B006CF500 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C07DCEE27FDF472006CF500 /* SecondViewController.swift in Sources */,
 				4C07DCDE27FDED77006CF500 /* ViewController.swift in Sources */,
 				4C07DCDA27FDED77006CF500 /* AppDelegate.swift in Sources */,
 				4C07DCDC27FDED77006CF500 /* SceneDelegate.swift in Sources */,
